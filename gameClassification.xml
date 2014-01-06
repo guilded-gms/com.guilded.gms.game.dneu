@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data xmlns="http://www.guilded.eu" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.guilded.eu http://www.guilded.eu/XSD/game-class.xsd">
+	<import>
+		<classification name="academic">
+			<races><![CDATA[human]]></races>
+			<roles><![CDATA[heal,support,range]]></roles>
+		</classification>
+		
+		<classification name="acrobat">
+			<races><![CDATA[human]]></races>
+			<roles><![CDATA[melee,support,range]]></roles>
+		</classification>
+		
+		<classification name="adept">
+			<races><![CDATA[human]]></races>
+			<roles><![CDATA[melee,heal,support,range]]></roles>
+		</classification>
+		
+		<classification name="alchemist">
+			<races><![CDATA[human]]></races>
+			<roles><![CDATA[melee,heal,support,range]]></roles>
+		</classification>
+		
+		<classification name="arcanist">
+			<races><![CDATA[human]]></races>
+			<roles><![CDATA[support,range]]></roles>
+		</classification>
+		
+		<classification name="archer">
+			<races><![CDATA[human]]></races>
+			<roles><![CDATA[melee,support,range]]></roles>
+		</classification>
+		
+		<classification name="barbarian">
+			<races><![CDATA[human]]></races>
+			<roles><![CDATA[tank,melee,support]]></roles>
+		</classification>
+		
+		<classification name="bowmaster">
+			<races><![CDATA[human]]></races>
+			<roles><![CDATA[support,range]]></roles>
+		</classification>
+		
+		<classification name="cleric">
+			<races><![CDATA[human]]></races>
+			<roles><![CDATA[tank,melee,heal,support,range]]></roles>
+		</classification>
+		
+		<classification name="crusader">
+			<races><![CDATA[human]]></races>
+			<roles><![CDATA[tank,melee,heal,support]]></roles>
+		</classification>
+		
+		<classification name="destroyer">
+			<races><![CDATA[human]]></races>
+			<roles><![CDATA[tank,melee,support]]></roles>
+		</classification>
+		
+		<classification name="elementalist">
+			<races><![CDATA[human]]></races>
+			<roles><![CDATA[support,range]]></roles>
+		</classification>
+		
+		<classification name="engineer">
+			<races><![CDATA[human]]></races>
+			<roles><![CDATA[melee,support,range]]></roles>
+		</classification>
+		
+		<classification name="gearmaster">
+			<races><![CDATA[human]]></races>
+			<roles><![CDATA[melee,support,range]]></roles>
+		</classification>
+		
+		<classification name="glaciana">
+			<races><![CDATA[human]]></races>
+			<roles><![CDATA[melee,support,range]]></roles>
+		</classification>
+		
+		<classification name="gladiator">
+			<races><![CDATA[human]]></races>
+			<roles><![CDATA[tank,melee,support]]></roles>
+		</classification>
+		
+		<classification name="guardian">
+			<races><![CDATA[human]]></races>
+			<roles><![CDATA[tank,melee,heal,support]]></roles>
+		</classification>
+		
+		<classification name="illumia">
+			<races><![CDATA[human]]></races>
+			<roles><![CDATA[support,range]]></roles>
+		</classification>
+		
+		<classification name="inquisitor">
+			<races><![CDATA[human]]></races>
+			<roles><![CDATA[tank,melee,heal,support,range]]></roles>
+		</classification>
+		
+		<classification name="mercenary">
+			<races><![CDATA[human]]></races>
+			<roles><![CDATA[melee,support]]></roles>
+		</classification>
+		
+		<classification name="moonlord">
+			<races><![CDATA[human]]></races>
+			<roles><![CDATA[melee,support,range]]></roles>
+		</classification>
+		
+		<classification name="obscuria">
+			<races><![CDATA[human]]></races>
+			<roles><![CDATA[support,range]]></roles>
+		</classification>
+		
+		<classification name="paladin">
+			<races><![CDATA[human]]></races>
+			<roles><![CDATA[tank,melee,heal,support]]></roles>
+		</classification>
+		
+		<classification name="phyician">
+			<races><![CDATA[human]]></races>
+			<roles><![CDATA[melee,support,heal,range]]></roles>
+		</classification>
+		
+		<classification name="priest">
+			<races><![CDATA[human]]></races>
+			<roles><![CDATA[tank,melee,heal,support,range]]></roles>
+		</classification>
+		
+		<classification name="swordmaster">
+			<races><![CDATA[human]]></races>
+			<roles><![CDATA[melee,support,range]]></roles>
+		</classification>
+		
+		<classification name="saint">
+			<races><![CDATA[human]]></races>
+			<roles><![CDATA[tank,heal,support,range]]></roles>
+		</classification>
+		
+		<classification name="seleana">
+			<races><![CDATA[human]]></races>
+			<roles><![CDATA[support,range]]></roles>
+		</classification>
+		
+		<classification name="sentinel">
+			<races><![CDATA[human]]></races>
+			<roles><![CDATA[support,range]]></roles>
+		</classification>
+		
+		<classification name="shootingstar">
+			<races><![CDATA[human]]></races>
+			<roles><![CDATA[tank,melee,support,range]]></roles>
+		</classification>
+		
+		<classification name="sniper">
+			<races><![CDATA[human]]></races>
+			<roles><![CDATA[support,range]]></roles>
+		</classification>
+		
+		<classification name="sorceress">
+			<races><![CDATA[human]]></races>
+			<roles><![CDATA[support,range]]></roles>
+		</classification>
+		
+		<classification name="tempest">
+			<races><![CDATA[human]]></races>
+			<roles><![CDATA[melee,support,range]]></roles>
+		</classification>
+		
+		<classification name="warrior">
+			<races><![CDATA[human]]></races>
+			<roles><![CDATA[tank,melee,support]]></roles>
+		</classification>
+		
+		<classification name="windwalker">
+			<races><![CDATA[human]]></races>
+			<roles><![CDATA[melee,support,range]]></roles>
+		</classification>
+	</import>
+</data>

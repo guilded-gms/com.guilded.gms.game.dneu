@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<language languagecode="de" xmlns="http://www.woltlab.com" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.woltlab.com http://www.woltlab.com/XSD/maelstrom/language.xsd">
+	<category name="gms.game">
+		<item name="gms.game.dneu.title"><![CDATA[Dragon Nest Europe]]></item>
+		
+		<item name="gms.game.dneu.class.academic"><![CDATA[Academic]]></item>
+		<item name="gms.game.dneu.class.acrobat"><![CDATA[Acrobat]]></item>
+		<item name="gms.game.dneu.class.adept"><![CDATA[Adept]]></item>
+		<item name="gms.game.dneu.class.alchemist"><![CDATA[Alchemist]]></item>
+		<item name="gms.game.dneu.class.arcanist"><![CDATA[Arcanist]]></item>
+		<item name="gms.game.dneu.class.archer"><![CDATA[Archer]]></item>
+		<item name="gms.game.dneu.class.barbarian"><![CDATA[Barbarian]]></item>
+		<item name="gms.game.dneu.class.bowmaster"><![CDATA[Bow Master]]></item>
+		<item name="gms.game.dneu.class.cleric"><![CDATA[Cleric]]></item>
+		<item name="gms.game.dneu.class.crusader"><![CDATA[Crusader]]></item>
+		<item name="gms.game.dneu.class.destroyer"><![CDATA[Destroyer]]></item>
+		<item name="gms.game.dneu.class.elementalist"><![CDATA[Elementalist]]></item>
+		<item name="gms.game.dneu.class.engineer"><![CDATA[Engineer]]></item>
+		<item name="gms.game.dneu.class.gearmaster"><![CDATA[Gearmaster]]></item>
+		<item name="gms.game.dneu.class.glaciana"><![CDATA[Glaciana]]></item>
+		<item name="gms.game.dneu.class.gladiator"><![CDATA[Gladiator]]></item>
+		<item name="gms.game.dneu.class.guardian"><![CDATA[Guardian]]></item>
+		<item name="gms.game.dneu.class.illumia"><![CDATA[Illumia]]></item>
+		<item name="gms.game.dneu.class.inquisitor"><![CDATA[Inquisitor]]></item>
+		<item name="gms.game.dneu.class.mercenary"><![CDATA[Mercenary]]></item>
+		<item name="gms.game.dneu.class.moonlord"><![CDATA[Moonlord]]></item>
+		<item name="gms.game.dneu.class.obscuria"><![CDATA[Obscuria]]></item>
+		<item name="gms.game.dneu.class.paladin"><![CDATA[Paladin]]></item>
+		<item name="gms.game.dneu.class.physician"><![CDATA[Physician]]></item>
+		<item name="gms.game.dneu.class.priest"><![CDATA[Priest]]></item>
+		<item name="gms.game.dneu.class.swordmaster"><![CDATA[Swordmaster]]></item>
+		<item name="gms.game.dneu.class.saint"><![CDATA[Saint]]></item>
+		<item name="gms.game.dneu.class.seleana"><![CDATA[Seleana]]></item>
+		<item name="gms.game.dneu.class.sentinel"><![CDATA[Sentinel]]></item>
+		<item name="gms.game.dneu.class.shooting Star"><![CDATA[Shooting Star]]></item>
+		<item name="gms.game.dneu.class.sniper"><![CDATA[Sniper]]></item>
+		<item name="gms.game.dneu.class.sorceress"><![CDATA[Sorceress]]></item>
+		<item name="gms.game.dneu.class.tempest"><![CDATA[Tempest]]></item>
+		<item name="gms.game.dneu.class.warrior"><![CDATA[Warrior]]></item>
+		<item name="gms.game.dneu.class.windwalker"><![CDATA[Windwalker]]></item>
+		
+		<item name="gms.game.dneu.race.human"><![CDATA[Human]]></item>
+		
+		<item name="gms.game.dneu.role.melee"><![CDATA[Melee]]></item>
+		<item name="gms.game.dneu.role.range"><![CDATA[Range]]></item>
+		<item name="gms.game.dneu.role.heal"><![CDATA[Heal]]></item>
+		<item name="gms.game.dneu.role.support"><![CDATA[Support]]></item>
+		<item name="gms.game.dneu.role.tank"><![CDATA[Tank]]></item>
+	</category>
+</language>

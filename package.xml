@@ -3,8 +3,8 @@
 	<packageinformation>
 		<packagename>GamePackage for Dragon Nest Europe</packagename>
 		<packagedescription><![CDATA[This package provides support for Dragon Nest Europe]]></packagedescription>
-		<version>1.0.0 Alpha 1</version>
-		<date>2014-01-04</date>
+		<version>1.0.0</version>
+		<date>2014-06-19</date>
 		<license><![CDATA[Creative Commons 3.0 <BY-NC-SA> <http://creativecommons.org/licenses/by-nc-sa/3.0/deed>]]></license>
 	</packageinformation>
 	

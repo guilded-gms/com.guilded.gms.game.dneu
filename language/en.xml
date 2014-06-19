@@ -10,9 +10,12 @@
 		<item name="gms.game.dneu.class.arcanist"><![CDATA[Arcanist]]></item>
 		<item name="gms.game.dneu.class.archer"><![CDATA[Archer]]></item>
 		<item name="gms.game.dneu.class.barbarian"><![CDATA[Barbarian]]></item>
+		<item name="gms.game.dneu.class.bladedancer"><![CDATA[Bladedancer]]></item>
 		<item name="gms.game.dneu.class.bowmaster"><![CDATA[Bow Master]]></item>
 		<item name="gms.game.dneu.class.cleric"><![CDATA[Cleric]]></item>
 		<item name="gms.game.dneu.class.crusader"><![CDATA[Crusader]]></item>
+		<item name="gms.game.dneu.class.dancer"><![CDATA[Dancer]]></item>
+		<item name="gms.game.dneu.class.darksummoner"><![CDATA[Dark Summoner]]></item>
 		<item name="gms.game.dneu.class.destroyer"><![CDATA[Destroyer]]></item>
 		<item name="gms.game.dneu.class.elementalist"><![CDATA[Elementalist]]></item>
 		<item name="gms.game.dneu.class.engineer"><![CDATA[Engineer]]></item>
@@ -22,6 +25,7 @@
 		<item name="gms.game.dneu.class.guardian"><![CDATA[Guardian]]></item>
 		<item name="gms.game.dneu.class.illumia"><![CDATA[Illumia]]></item>
 		<item name="gms.game.dneu.class.inquisitor"><![CDATA[Inquisitor]]></item>
+		<item name="gms.game.dneu.class.kali"><![CDATA[Kali]]></item>
 		<item name="gms.game.dneu.class.mercenary"><![CDATA[Mercenary]]></item>
 		<item name="gms.game.dneu.class.moonlord"><![CDATA[Moonlord]]></item>
 		<item name="gms.game.dneu.class.obscuria"><![CDATA[Obscuria]]></item>
@@ -32,9 +36,12 @@
 		<item name="gms.game.dneu.class.saint"><![CDATA[Saint]]></item>
 		<item name="gms.game.dneu.class.seleana"><![CDATA[Seleana]]></item>
 		<item name="gms.game.dneu.class.sentinel"><![CDATA[Sentinel]]></item>
-		<item name="gms.game.dneu.class.shooting Star"><![CDATA[Shooting Star]]></item>
+		<item name="gms.game.dneu.class.shootingstar"><![CDATA[Shooting Star]]></item>
 		<item name="gms.game.dneu.class.sniper"><![CDATA[Sniper]]></item>
 		<item name="gms.game.dneu.class.sorceress"><![CDATA[Sorceress]]></item>
+		<item name="gms.game.dneu.class.screamer"><![CDATA[Screamer]]></item>
+		<item name="gms.game.dneu.class.souleater"><![CDATA[Souleater]]></item>
+		<item name="gms.game.dneu.class.spiritdancer"><![CDATA[Spiritdancer]]></item>
 		<item name="gms.game.dneu.class.tempest"><![CDATA[Tempest]]></item>
 		<item name="gms.game.dneu.class.warrior"><![CDATA[Warrior]]></item>
 		<item name="gms.game.dneu.class.windwalker"><![CDATA[Windwalker]]></item>

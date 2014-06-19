@@ -36,6 +36,11 @@
 			<roles><![CDATA[tank,melee,support]]></roles>
 		</classification>
 		
+		<classification name="bladedancer">
+			<races><![CDATA[human]]></races>
+			<roles><![CDATA[melee,support]]></roles>
+		</classification>
+		
 		<classification name="bowmaster">
 			<races><![CDATA[human]]></races>
 			<roles><![CDATA[support,range]]></roles>
@@ -49,6 +54,16 @@
 		<classification name="crusader">
 			<races><![CDATA[human]]></races>
 			<roles><![CDATA[tank,melee,heal,support]]></roles>
+		</classification>
+		
+		<classification name="dancer">
+			<races><![CDATA[human]]></races>
+			<roles><![CDATA[melee,support, range]]></roles>
+		</classification>
+		
+		<classification name="darksummoner">
+			<races><![CDATA[human]]></races>
+			<roles><![CDATA[support, range]]></roles>
 		</classification>
 		
 		<classification name="destroyer">
@@ -91,6 +106,11 @@
 			<roles><![CDATA[support,range]]></roles>
 		</classification>
 		
+		<classification name="kali">
+			<races><![CDATA[human]]></races>
+			<roles><![CDATA[melee,support, range]]></roles>
+		</classification>
+		
 		<classification name="inquisitor">
 			<races><![CDATA[human]]></races>
 			<roles><![CDATA[tank,melee,heal,support,range]]></roles>
@@ -116,7 +136,7 @@
 			<roles><![CDATA[tank,melee,heal,support]]></roles>
 		</classification>
 		
-		<classification name="phyician">
+		<classification name="physician">
 			<races><![CDATA[human]]></races>
 			<roles><![CDATA[melee,support,heal,range]]></roles>
 		</classification>
@@ -124,6 +144,16 @@
 		<classification name="priest">
 			<races><![CDATA[human]]></races>
 			<roles><![CDATA[tank,melee,heal,support,range]]></roles>
+		</classification>
+		
+		<classification name="screamer">
+			<races><![CDATA[human]]></races>
+			<roles><![CDATA[melee,support, range]]></roles>
+		</classification>
+		
+		<classification name="souleater">
+			<races><![CDATA[human]]></races>
+			<roles><![CDATA[melee,support, range]]></roles>
 		</classification>
 		
 		<classification name="swordmaster">
